@@ -1,6 +1,5 @@
 <h2>Attia Ahmed 👋</h2>
-<p><em>Software Engineer at <a href="https://famcare.app/">Famcare & @onestudio-co
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="https://famcare.app/">Famcare</a> & @onestudio-co<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Attia_A_Ahmed?label=Follow)](https://twitter.com/intent/follow?screen_name=Attia_A_Ahmed)
