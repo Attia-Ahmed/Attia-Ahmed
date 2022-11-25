@@ -10,7 +10,7 @@
 ## 🚀 Contributions
 Contributor at [laravel/framework 💪](https://github.com/laravel/framework/pull/41257) 
 <br>
-Contributor at [pusher/pusher-http-php 🤓](https://github.com/laravel/framework/pull/41257) 
+Contributor at [pusher/pusher-http-php 🤓](https://github.com/pusher/pusher-http-php/pull/324)
  <br>
 [more](https://github.com/Attia-Ahmed?tab=repositories)
 
