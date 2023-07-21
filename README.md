@@ -10,6 +10,8 @@
 ## 🚀 Contributions
 Contributor at [laravel/framework 💪](https://github.com/laravel/framework/pull/41257) 
 <br>
+Contributor at [composer/composer 🚀](https://github.com/composer/composer/pull/11550) 
+<br>
 Contributor at [pusher/pusher-http-php 🔥](https://github.com/pusher/pusher-http-php/pull/324)
  <br>
 Contributor at [lepikhinb/laravel-fluent 🤓](https://github.com/lepikhinb/laravel-fluent/pull/28)
