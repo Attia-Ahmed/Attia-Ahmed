@@ -1,10 +1,5 @@
 <h2>Attia Ahmed 👋</h2>
-<p><em>Software Engineer at <a href="https://www.arpm.co/">ARPM</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Attia_A_Ahmed?label=Follow)](https://twitter.com/intent/follow?screen_name=Attia_A_Ahmed)
-[![Linkedin: Attia Ahmed](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/attia-ahmed-271254b0/)](https://www.linkedin.com/in/attia-ahmed-271254b0/)
-![GitHub followers](https://img.shields.io/github/followers/Attia-Ahmed?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=Attia-Ahmed)
 
 ## 🚀 Contributions
